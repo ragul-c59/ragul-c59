@@ -1,9 +1,9 @@
-![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif height="300px" )
 <h1 align="center">Hi there 👋, i'ts me RAGUL</h1>
 <h3 align="center">Frontend Developer | Aspiring Fullstack Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ragul-c59&label=Profile%20views&color=0e75b6&style=flat" alt="ragul-c59" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ragul-c59&label=Profile%20views&color=0e75b6&style=flat" alt="ragul-c59" height="700px"/> </p>
 
 - 🎓 B.Com (Computer Applications) Graduate | MCA Candidate | Frontend to Fullstack Journey
 
