@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif height="300px" )
+![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi there 👋, i'ts me RAGUL</h1>
 <h3 align="center">Frontend Developer | Aspiring Fullstack Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/1*yw0TnheAGN-LPneDaTlaxw.gif">
